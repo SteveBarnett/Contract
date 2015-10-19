@@ -7,7 +7,7 @@ and {{customer name}}
 
 We’ll always do our best to fulfil your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. In this contract you won’t find any complicated legal terms or long passages of unreadable text. We’ve no desire to trick you into signing something that you might later regret. **What we do want is what’s best for both parties, now and in the future.**
 
-You ({{customer name}}), located at {{customer address}}, are hiring us (Naga), located at {{ address }}, to provide **Front-end Development and User Experience** services at **a rate of R500 per hour**.
+You ({{customer name}}), located at {{customer address}}, are hiring us (Naga), located at {{ address }}, to provide **Front-end Development and User Experience** services at a rate of **{{ cashmoney! }} per hour, per person**.
 
 ## What both parties agree to do
 
