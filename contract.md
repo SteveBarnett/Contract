@@ -33,6 +33,16 @@ We test in a range of browsers, but where we spend the most time testing will de
 
 We can't guarantee that our work will be error-free and so we can't be liable to you or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you've advised us of them. Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
 
+### Copyrights
+
+First, you guarantee that all elements of text, images or other artwork you provide are either owned by your good selves, or that you've permission to use them.
+
+Then, when your final payment has cleared, copyright will be automatically assigned as follows:
+
+You'll own the visual elements that we create for this project. We'll give you source files and finished files and you should keep them somewhere safe as we're not required to keep a copy. You own all elements of text, images and data you provided, unless someone else owns them.
+
+We'll own the unique combination of these elements that constitutes a complete design and we'll license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
+
 ### Payment schedule
 
 We're sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we're also sure you'll want to stay friends, you agree to stick tight to the following payment schedule.
