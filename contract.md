@@ -17,7 +17,7 @@ We have the experience and ability to do everything we’ve agreed with you and 
 
 ## The details
 
-You’ll have plenty of opportunities to review our work and provide feedback. We’ll either share a Dropbox folder or GitHub repository with you and we’ll regularly, possibly daily, contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll inform us and pay us in full for all time spent on your project until that point and cancel this contract.
+You’ll have plenty of opportunities to review our work and provide feedback. We’ll either share a Dropbox folder or GitHub repository with you and we’ll be in regular, possibly daily, contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll inform us and pay us in full for all time spent on your project until that point and cancel this contract.
 
 ### HTML, CSS and JavaScript
 
