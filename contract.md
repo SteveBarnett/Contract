@@ -17,7 +17,7 @@ We have the experience and ability to do everything we’ve agreed with you and 
 
 ## The details
 
-You’ll have plenty of opportunities to review our work and provide feedback. We’ll either share a Dropbox folder or GitHub repository with you and we’ll regular, possibly daily, contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel this contract.
+You’ll have plenty of opportunities to review our work and provide feedback. We’ll either share a Dropbox folder or GitHub repository with you and we’ll regularly, possibly daily, contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll inform us and pay us in full for all time spent on your project until that point and cancel this contract.
 
 ### HTML, CSS and JavaScript
 
@@ -39,7 +39,7 @@ We’re sure you understand how important it is as a small business that you pay
 
 We'll invoice near the end of every month for any work completed up to that point. We issue invoices electronically. Our payment terms are **7 days from the date of invoice** by electronic transfer.
 
-We reserve the right to charge interest on all overdue debts at the rate of 5% per month or part of a month.
+We reserve the right to charge interest on all overdue debts at the rate of current repo rate + 3% per month or part of a month.
 
 ### The small print
 
