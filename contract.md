@@ -43,6 +43,8 @@ You'll own the visual elements that we create for this project. We'll give you s
 
 We'll own the unique combination of these elements that constitutes a complete design and we'll license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
 
+Where we contribute to an open-source project, we will complete the project's contributor agreement that makes our contribution fully compatible with the project's open licence.
+
 ### Payment schedule
 
 We're sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we're also sure you'll want to stay friends, you agree to stick tight to the following payment schedule.
