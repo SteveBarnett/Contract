@@ -49,9 +49,17 @@ Where we contribute to an open-source project, we will complete the project's co
 
 We're sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we're also sure you'll want to stay friends, you agree to stick tight to the following payment schedule.
 
-We'll invoice near the end of every month for any work completed up to that point. We issue invoices electronically. Our payment terms are **7 days from the date of invoice** by electronic transfer.
+#### For project work
 
-We reserve the right to charge interest on all overdue debts at the rate of current repo rate + 3% per month or part of a month.
+We'll invoice for a deposit before we begin any work. We only begin work once that invoice is paid. Our payment terms are **7 days from the date of invoice**.
+
+#### For ongoing work
+
+We'll invoice near the end of every month for any work completed up to that point. Since these invoices are for work completed, they are due **upon receipt**.
+
+#### For both
+
+We issue invoices electronically and accept payment by electronic transfer. We reserve the right to charge interest on all overdue debts at the rate of current repo rate + 3% per month or part of a month.
 
 ### The small print
 
