@@ -69,13 +69,14 @@ Although the language is simple, the intentions are serious and this contract is
 
 ---
 
+<br /><br />
 Signed by and on behalf of Naga
 
-
+<br /><br />
 Signed by and on behalf of {{ customer name }}
 
-
-Date {{ date }}
+<br />
+Date: {{ date }}
 
 Everyone should sign above and keep a copy for their records.
 
