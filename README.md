@@ -25,8 +25,9 @@ We'll deliver web pages made up of HTML for structured content, CSS for presenta
 
 Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person's experience of a design should be appropriate to the capabilities of a browser or device. We test in a range of browsers, but where we spend the most time testing will depend on the devices that your visitors to your site use.
 
+### User experience
 
-We test in a range of browsers, but where we spend the most time testing will depend on the devices that your visitors to your site use.
+We'll discuss what your specific needs are and plan the "deliverables" accordingly. These might include reviews of your existing stuff and producing an informal report, making or updating Personas, or making or updating Journey Maps. We'll provide all the sources files, usually in Balsamiq or HTML, CSS, and JavaScript format.
 
 ### Legal stuff
 
