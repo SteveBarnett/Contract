@@ -19,13 +19,12 @@ We have the experience and ability to do everything we've agreed with you and we
 
 You'll have plenty of opportunities to review our work and provide feedback. We'll either share a Dropbox folder or GitHub repository with you and we'll be in regular, possibly daily, contact. If, at any stage, you're not happy with the direction our work is taking, you'll inform us and pay us in full for all time spent on your project until that point and cancel this contract.
 
-### HTML, CSS and JavaScript
+### Front-end
 
-We'll deliver web pages made up of HTML for structured content, CSS for presentation, and JavaScript for behaviour. We'll try to follow the principles of Progressive Enhancement, and build Mobile First Responsive wherever possible. We'll work directly on your GitHub repository, if possible.
+We'll deliver web pages made up of HTML for structured content, CSS for presentation, and JavaScript for behaviour. If you're using a framework, like Rails or Django, we'll work in view layer of that. We'll work directly on your GitHub repository, if possible. We'll try to follow the principles of Progressive Enhancement, and build Mobile First, wherever possible.
 
-### Browser testing
+Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person's experience of a design should be appropriate to the capabilities of a browser or device. We test in a range of browsers, but where we spend the most time testing will depend on the devices that your visitors to your site use.
 
-Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person's experience of a design should be appropriate to the capabilities of a browser or device.
 
 We test in a range of browsers, but where we spend the most time testing will depend on the devices that your visitors to your site use.
 
