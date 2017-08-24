@@ -1,7 +1,8 @@
+![](../nvALT/logo.png)
+
 # Contract
 
-Between Steve Barnett, t/a Naga
-and {{customer name}}
+Between **Steve Barnett**, t/a Naga and **{{customer name}}**
 
 ## Summary
 
