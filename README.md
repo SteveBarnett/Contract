@@ -77,7 +77,7 @@ Signed by and on behalf of Naga
 Signed by and on behalf of {{ customer name }}
 
 <br />
-Date: {{ date }}
+Date: **{{ date }}**
 
 Everyone should sign above and keep a copy for their records.
 
